@@ -1,1 +1,208 @@
+body{
+   background-image: linear-gradient(to right, #1a2a6c,#b21f1f,#fdbb2d);
+}
 
+header h1{
+   font-family: 'Comic Sans MS';
+text-align: center;
+       font-size: 30px;
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+        background-image: linear-gradient(45deg, DeepPink,
+        BlueViolet, Indigo, Red, DarkOrange, Yellow,
+        Lime, MediumAquaMarine, Aqua, Blue, Olive);
+        background-size: 400% 400%;
+        animation: move 10s ease infinite;
+    }
+
+    @keyframes move{
+         0% {
+            background-position: 0 0;
+         }
+         25% {
+            background-position: 100% 0;
+         }
+         50% {
+            background-position: 100% 100%;
+         }
+         75% {
+            background-position: 0 100%;
+         }
+         100% {
+            background-position: 0 0;
+         }
+    }
+
+    header img{
+          height: 300px;
+    }
+
+    header p{
+      text-align: center;
+    }
+
+    main div {
+      text-align: center;
+    }
+
+    .mumii_natrona h1{
+      text-align: center;
+       font-size: 30px;
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+        background-image: linear-gradient(to right, #03001e,#7303c0,#ec38bc,Red) ;
+        background-size: 400% 400%;
+        animation: move 5s ease infinite;
+    }
+
+    @keyframes move{
+         0% {
+            background-position: 0 0;
+         }
+         25% {
+            background-position: 100% 0;
+         }
+         50% {
+            background-position: 100% 100%;
+         }
+         75% {
+            background-position: 0 100%;
+         }
+         100% {
+            background-position: 0 0;
+         }
+    }
+
+    .colodec_uzhasa h1{
+      text-align: center;
+       font-size: 30px;
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+        background-image: linear-gradient(to right, aqua, #74ebd5,#acb6e5, #5fc3e4, #e55d87, red);
+        background-size: 400% 400%;
+        animation: move2 5s ease infinite;
+    }
+
+    @keyframes move2{
+      0% {
+         background-position: 0 0;
+      }
+      25% {
+         background-position: 100% 0;
+      }
+      50% {
+         background-position: 100% 100%;
+      }
+      75% {
+         background-position: 0 100%;
+      }
+      100% {
+         background-position: 0 0;
+      }
+ }
+
+ .labirint h1{
+   text-align: center;
+    font-size: 30px;
+     background-clip: text;
+     -webkit-background-clip: text;
+     color: transparent;
+     background-image: linear-gradient(to right, aqua, lightBlue, BlueViolet, blue, navy, indigo);
+     background-size: 400% 400%;
+     animation: move2 10s ease infinite;
+ }
+
+ @keyframes move2{
+   0% {
+      background-position: 0 0;
+   }
+   25% {
+      background-position: 100% 0;
+   }
+   50% {
+      background-position: 100% 100%;
+   }
+   75% {
+      background-position: 0 100%;
+   }
+   100% {
+      background-position: 0 0;
+   }
+}
+
+.goluboe h1{
+   text-align: center;
+    font-size: 30px;
+     background-clip: text;
+     -webkit-background-clip: text;
+     color: transparent;
+     background-image: linear-gradient(to right, navy, blue, BlueViolet, indigo, black);
+     background-size: 400% 400%;
+     animation: move2 10s ease infinite;
+ }
+
+ @keyframes move2{
+   0% {
+      background-position: 0 0;
+   }
+   25% {
+      background-position: 100% 0;
+   }
+   50% {
+      background-position: 100% 100%;
+   }
+   75% {
+      background-position: 0 100%;
+   }
+   100% {
+      background-position: 0 0;
+   }
+}
+
+ .colodec_uzhasa img{
+   height: 900px;
+   }
+    
+   .vodoyomi {
+       font-size: 20px;
+       color: aqua;
+ } 
+
+ .yelowpark img{
+       height: 800px;
+    }
+
+    footer h1{
+      font-family: 'Comic Sans MS';
+      text-align: center;
+             font-size: 30px;
+              background-clip: text;
+              -webkit-background-clip: text;
+              color: transparent;
+              background-image: linear-gradient(45deg, DeepPink,
+              BlueViolet, Indigo, Red, DarkOrange, Yellow,
+              Lime, MediumAquaMarine, Aqua, Blue, Olive);
+              background-size: 400% 400%;
+              animation: move 10s ease infinite;
+          }
+      
+          @keyframes move{
+               0% {
+                  background-position: 0 0;
+               }
+               25% {
+                  background-position: 100% 0;
+               }
+               50% {
+                  background-position: 100% 100%;
+               }
+               75% {
+                  background-position: 0 100%;
+               }
+               100% {
+                  background-position: 0 0;
+               }
+          }
